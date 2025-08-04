@@ -20,7 +20,7 @@ This repository contains a Django web application that simulates a simple two‑
 1. **Clone this repository** (replace with your own repository URL after pushing):
 
    ```bash
-   git clone <your‑github‑repo-url
+   https://github.com/Srikrishna177/Food_Simulation_Django_Application.git
    cd django_chatbot_project
    ```
 
